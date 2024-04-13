@@ -1,6 +1,6 @@
 # In[1]:Import the packages
-# Reg no : 
-# Name : 
+# Reg no : 212221230106
+# Name : Sowmiya N
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
